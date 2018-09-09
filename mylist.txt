@@ -1,0 +1,2 @@
+subject,Incident.Subject
+rsk_risk_level,Incident.CustomFields.c.rsk_risk_level.LookupName
