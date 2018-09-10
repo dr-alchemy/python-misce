@@ -1,2 +1,2 @@
-subject,Object.Subject
-my_level,Object.CustomFields.a.my_level.LookupName
+subject,Object.Subject,,
+my_level,Object.CustomFields.a.my_level.LookupName,,
